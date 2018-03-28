@@ -1,6 +1,0 @@
-export {
-
-	updatePage
-
-	
-} from './actions';

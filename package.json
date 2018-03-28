@@ -1,8 +1,8 @@
 {
-  "name": "indecision-app",
+  "name": "lazy-loader",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Andrew Mead",
+  "author": "Adam Becker",
   "license": "MIT",
   "scripts": {
     "serve": "live-server public/",
@@ -23,6 +23,9 @@
     "react": "15.6.1",
     "react-dom": "15.6.1",
     "react-modal": "2.2.2",
+    "react-redux": "^5.0.7",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0",
     "sass-loader": "6.0.6",
     "style-loader": "0.18.2",
     "validator": "8.0.0",

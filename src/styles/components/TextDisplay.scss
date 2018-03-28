@@ -1,0 +1,22 @@
+.mainContainer{
+	display:flex;
+	justify-content: center;
+}
+
+.textContainer{
+	height:$text-continer;
+	width:1000px;
+	margin: 10px;
+	padding: 30px;
+	font-size: $m-size;
+	-webkit-box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 1px 1px rgba(0,0,0,0.75);
+	overflow-y: scroll;
+	line-height:40px;
+
+}
+
+.paragraph{
+	margin-bottom: 30px;
+}
